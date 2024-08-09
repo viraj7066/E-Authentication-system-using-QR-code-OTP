@@ -1,4 +1,4 @@
-# E-Authentication System using QR Code and OTP
+# E-Authentication System using QR Code and OTP 
 
 This project provides an E-Authentication system that allows users to log in using two-factor authentication methods: QR code scanning or OTP (One-Time Password) verification. Users register by providing basic details such as name, mobile number, email, and gender. After successful registration, the user can choose between logging in via QR code or OTP.
 
